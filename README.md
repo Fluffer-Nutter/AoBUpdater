@@ -1,6 +1,6 @@
 # AoBUpdater
 
-Depending on the assembly the process is running on, this AoBUpdater may not be working for you. This program aims to minimize the time
+This program was written for x32 architecture, therefore it will not work with x64. This program aims to minimize the time
 taken to update address using AoB from the targeted process.
 
 ![AoBUpdater](https://i.imgur.com/GO26Mfd.png)
